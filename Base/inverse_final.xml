@@ -1,0 +1,171 @@
+<fichier_inverse>
+	<tag name="search" Nt="4"><Doc_Ref name="doc_1.txt" length="31" TF="3">0.15</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="5">0.15</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="1">0.07</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.11</Doc_Ref></tag>
+	<tag name="engin" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="3">0.6</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.3</Doc_Ref></tag>
+	<tag name="index" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="5">0.7</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="3">0.57</Doc_Ref></tag>
+	<tag name="collect" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref></tag>
+	<tag name="pars" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref></tag>
+	<tag name="store" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="2">0.48</Doc_Ref></tag>
+	<tag name="data" Nt="3"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.2</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="3">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.17</Doc_Ref></tag>
+	<tag name="facilit" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref></tag>
+	<tag name="fast" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref></tag>
+	<tag name="accur" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref></tag>
+	<tag name="inform" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="3">0.57</Doc_Ref></tag>
+	<tag name="retriev" Nt="5"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.0</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="7">0.0</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="14">0.0</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="3">0.0</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="3">0.0</Doc_Ref></tag>
+	<tag name="design" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="2">0.9</Doc_Ref></tag>
+	<tag name="incorpor" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="interdisciplinari" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="concept" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="linguist" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="cognit" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="psycholog" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="mathemat" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="informat" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="comput" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="3">0.51</Doc_Ref></tag>
+	<tag name="scienc" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="altern" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="name" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="process" Nt="3"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.2</Doc_Ref><Doc_Ref name="doc_2.txt" length="38" TF="1">0.18</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="2">0.23</Doc_Ref></tag>
+	<tag name="context" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="find" Nt="2"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.36</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref></tag>
+	<tag name="web" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="2">0.9</Doc_Ref></tag>
+	<tag name="page" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="internet" Nt="1"><Doc_Ref name="doc_1.txt" length="31" TF="1">0.63</Doc_Ref></tag>
+	<tag name="text" Nt="3"><Doc_Ref name="doc_2.txt" length="38" TF="12">0.44</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="1">0.15</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.17</Doc_Ref></tag>
+	<tag name="preprocess" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="step" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="also" Nt="2"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.46</Doc_Ref></tag>
+	<tag name="call" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="document" Nt="2"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.46</Doc_Ref></tag>
+	<tag name="branch" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="primarili" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="form" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="defin" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="match" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="state" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="user" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="5">1.18</Doc_Ref></tag>
+	<tag name="queri" Nt="3"><Doc_Ref name="doc_2.txt" length="38" TF="3">0.32</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="4">0.33</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.25</Doc_Ref></tag>
+	<tag name="set" Nt="2"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="4">0.59</Doc_Ref></tag>
+	<tag name="result" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="rank" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="present" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="accord" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="relev" Nt="3"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.18</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="1">0.15</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.17</Doc_Ref></tag>
+	<tag name="rang" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="word" Nt="2"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="1">0.27</Doc_Ref></tag>
+	<tag name="multi" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="sentenc" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="full" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="descript" Nt="2"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.33</Doc_Ref><Doc_Ref name="doc_3.txt" length="55" TF="1">0.27</Doc_Ref></tag>
+	<tag name="repres" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="need" Nt="1"><Doc_Ref name="doc_2.txt" length="38" TF="1">0.57</Doc_Ref></tag>
+	<tag name="imag" Nt="3"><Doc_Ref name="doc_3.txt" length="55" TF="25">0.47</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="7">0.39</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="9">0.42</Doc_Ref></tag>
+	<tag name="brows" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="4">1.01</Doc_Ref></tag>
+	<tag name="larg" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="5">1.09</Doc_Ref></tag>
+	<tag name="databas" Nt="2"><Doc_Ref name="doc_3.txt" length="55" TF="4">0.57</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.46</Doc_Ref></tag>
+	<tag name="digit" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="5">1.09</Doc_Ref></tag>
+	<tag name="learn" Nt="2"><Doc_Ref name="doc_3.txt" length="55" TF="6">0.66</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.3</Doc_Ref></tag>
+	<tag name="ant" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="coloni" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="optim" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="use" Nt="3"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.23</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="3">0.29</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="3">0.31</Doc_Ref></tag>
+	<tag name="content" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="base" Nt="2"><Doc_Ref name="doc_3.txt" length="55" TF="4">0.57</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref></tag>
+	<tag name="scale" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="mine" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="wavelet" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="transform" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="visual" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="uniqu" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="characterist" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="task" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="radial" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="moment" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="system" Nt="3"><Doc_Ref name="doc_3.txt" length="55" TF="4">0.32</Doc_Ref><Doc_Ref name="doc_4.txt" length="51" TF="1">0.16</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.25</Doc_Ref></tag>
+	<tag name="tradit" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="common" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.73</Doc_Ref></tag>
+	<tag name="method" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="3">0.9</Doc_Ref></tag>
+	<tag name="util" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.73</Doc_Ref></tag>
+	<tag name="ad" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.73</Doc_Ref></tag>
+	<tag name="metadata" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.73</Doc_Ref></tag>
+	<tag name="caption" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.73</Doc_Ref></tag>
+	<tag name="keyword" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="2">0.73</Doc_Ref></tag>
+	<tag name="perform" Nt="2"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.27</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.46</Doc_Ref></tag>
+	<tag name="annot" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="3">0.9</Doc_Ref></tag>
+	<tag name="manual" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="time" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="consum" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="labori" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="expens" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="address" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="amount" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="research" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="done" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="automat" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="wikipedia" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="semant" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="deep" Nt="1"><Doc_Ref name="doc_3.txt" length="55" TF="1">0.48</Doc_Ref></tag>
+	<tag name="benchmark" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="test" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="featur" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="5">1.11</Doc_Ref></tag>
+	<tag name="extractorss" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="simpl" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="first" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="local" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="detect" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="select" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="extractor" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="describ" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="descriptor" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="3">0.92</Doc_Ref></tag>
+	<tag name="similar" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="3">0.55</Doc_Ref></tag>
+	<tag name="employ" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="k" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="nearest" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="neighbour" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="dataset" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="2">0.76</Doc_Ref></tag>
+	<tag name="final" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="vote" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="criterion" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="distanc" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="sort" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.3</Doc_Ref></tag>
+	<tag name="evalu" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.3</Doc_Ref></tag>
+	<tag name="consist" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="ground" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="truth" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="split" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="three" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="class" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="good" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.3</Doc_Ref></tag>
+	<tag name="ok" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="junk" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="averag" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="3">0.92</Doc_Ref></tag>
+	<tag name="precis" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="3">0.52</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.46</Doc_Ref></tag>
+	<tag name="area" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="recal" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="2">0.46</Doc_Ref></tag>
+	<tag name="curv" Nt="2"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.28</Doc_Ref><Doc_Ref name="doc_5.txt" length="44" TF="1">0.3</Doc_Ref></tag>
+	<tag name="calcul" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="get" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="mean" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="map" Nt="1"><Doc_Ref name="doc_4.txt" length="51" TF="1">0.5</Doc_Ref></tag>
+	<tag name="graph" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="2">0.8</Doc_Ref></tag>
+	<tag name="measur" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="3">0.96</Doc_Ref></tag>
+	<tag name="accuraci" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="realli" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="like" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="machin" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="though" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="roc" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="commonli" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="suitabl" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="case" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="given" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="rest" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="relat" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="descend" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="order" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="would" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="2">0.8</Doc_Ref></tag>
+	<tag name="want" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="e" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="appear" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="2">0.8</Doc_Ref></tag>
+	<tag name="begin" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+	<tag name="irrelev" Nt="1"><Doc_Ref name="doc_5.txt" length="44" TF="1">0.54</Doc_Ref></tag>
+</fichier_inverse>

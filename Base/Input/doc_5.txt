@@ -1,0 +1,5 @@
+Precision-Recall graphs measure the accuracy of your image retrieval system. They're also used in the performance of any search engine really, like text or documents. 
+They're also used in machine learning evaluation and performance, though ROC Curves are what are more commonly used.
+Precision-Recall graphs are more suitable for document and data retrieval. For the case of images here, given your query image, you are measuring how similar this image is with the rest
+of the images in your database. You then have similarity measures for each of the database images in relation to your query image and then you sort these similarities in descending order.
+For a good retrieval system, you would want the images that are the most relevant (i.e. what you are searching for) to all appear at the beginning, while the irrelevant images would appear after.

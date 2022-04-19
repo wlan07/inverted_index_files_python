@@ -1,0 +1,8 @@
+The image retrieval benchmark 
+The image retrieval benchmark tests feature extractorss in a simple image retrieval system. 
+First a set of local features is detected by selected feature extractor, and described using selected descriptor. To find most similar features it employs a K-Nearest neighbours search 
+over descriptors from the all dataset images. Finally, a simple voting criterion based on K-nearest descriptors distances is used to sort the images
+
+The dataset used in the evaluation consists of a set of images and a set of queries. Set of ground truth images for each query is split into three classes 
+'Good', 'Ok', 'Junk'. For each query, the average precision (area under the precision-recall curve) is calculated and averaged over all queries to get mean Average Precision (mAP)
+of the feature extractor.
